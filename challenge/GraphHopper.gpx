@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.12" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2019-08-23T04:07:18Z</time></metadata>
+<wpt lat="-37.821692" lon="144.98987"> <name>Richmond Terrace</name></wpt>
+<wpt lat="-37.820209" lon="144.989791"> <name>arrive at destination</name></wpt>
+<rte>
+<rtept lat="-37.821692" lon="144.98987"><desc>continue onto Richmond Terrace</desc><extensions><gh:distance>1.5</gh:distance><gh:time>1090</gh:time><gh:direction>W</gh:direction><gh:azimuth>278.4</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="-37.82169" lon="144.989852"><desc>turn right onto Grattan Place</desc><extensions><gh:distance>178.7</gh:distance><gh:time>128676</gh:time><gh:direction>N</gh:direction><gh:azimuth>9.1</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="-37.820334" lon="144.99023"><desc>continue onto Rowena Parade</desc><extensions><gh:distance>58.4</gh:distance><gh:time>42018</gh:time><gh:direction>NW</gh:direction><gh:azimuth>322.96</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="-37.820209" lon="144.989791"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:sign>4</gh:sign></extensions></rtept>
+</rte>
+<trk><name>GraphHopper Track</name><trkseg>
+<trkpt lat="-37.821692" lon="144.98987"><time>2019-08-23T04:07:18Z</time></trkpt>
+<trkpt lat="-37.82169" lon="144.989852"><time>2019-08-23T04:07:19Z</time></trkpt>
+<trkpt lat="-37.821329" lon="144.989926"><time>2019-08-23T04:07:48Z</time></trkpt>
+<trkpt lat="-37.821164" lon="144.990073"><time>2019-08-23T04:08:04Z</time></trkpt>
+<trkpt lat="-37.8211" lon="144.990101"><time>2019-08-23T04:08:09Z</time></trkpt>
+<trkpt lat="-37.820783" lon="144.990529"><time>2019-08-23T04:08:47Z</time></trkpt>
+<trkpt lat="-37.820334" lon="144.99023"><time>2019-08-23T04:09:27Z</time></trkpt>
+<trkpt lat="-37.820076" lon="144.989984"><time>2019-08-23T04:09:53Z</time></trkpt>
+<trkpt lat="-37.820209" lon="144.989791"><time>2019-08-23T04:10:09Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
